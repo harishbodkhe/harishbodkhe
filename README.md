@@ -6,10 +6,10 @@ Challenge Overview Every day for the next 25 days, you will be presented with a 
 
 Materials Used
 
-C Language : Iused the C programming language to solve these challenges.
+1.C Language : Iused the C programming language to solve these challenges.
 
-Questions References : https://www.programiz.com/c-programming/examples
+2.Questions References : https://www.programiz.com/c-programming/examples
 
-Github : All my code solutions and progress are documented in this Github repository.
+3.Github : All my code solutions and progress are documented in this Github repository.
 
-Linkedin : You can find a detailed post about my experience on my Linkedin profile.
+4.Linkedin : You can find a detailed post about my experience on my Linkedin profile.
